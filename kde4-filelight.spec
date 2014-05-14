@@ -5,12 +5,12 @@
 
 Summary:	K Desktop Environment - Disk usage statistics
 Name:		kde4-filelight
-Version:	4.13.0
+Version:	4.13.1
 Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	e1a36406ccdbb0ecdef845d8d391549c
+# Source0-md5:	3b5f6279add91ff4b9f56931c3eafb30
 URL:		http://www.kde.org/
 BuildRequires:	kde4-kdebase-devel >= %{version}
 BuildRequires:	openssl-devel
